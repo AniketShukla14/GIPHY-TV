@@ -38,8 +38,6 @@
 In order to learn more about API's this project was created.
 <br>
 <br>
-![ss5](https://user-images.githubusercontent.com/60666490/139720134-009129b3-411e-4c7c-911c-97b6e3742980.png)
-![Untitled](https://user-images.githubusercontent.com/60666490/139720171-c79399b4-d8b1-434b-b7ed-1aa115cb1e4a.png)
 <p align="right">(<a href="#GIPHY-TV">back to top</a>)</p>
 
 
