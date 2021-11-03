@@ -1,6 +1,6 @@
 # GIPHY-TV
 <li>A TV which runs GIF's continuously.</li>
-<li>It's a engaging website where a developer can also choose the topic he wants to play in the Tv.</li>
+<li>It's a engaging website where a developer can also choose the topic he wants to play on the Tv.</li>
 <li> This website is cool cause you can choose to see your favourites GIF's in order to change your mood or pass your time and also to engage kids and your pets too.</li>
 <br>
 
